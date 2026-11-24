@@ -1,5 +1,8 @@
 # Google Ads Transparency Scraper — examples
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GeminiGeorge22/publicrecords-google-ads-transparency-scraper-examples/blob/main/notebooks/quickstart.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GeminiGeorge22/publicrecords-google-ads-transparency-scraper-examples/HEAD?labpath=notebooks%2Fquickstart.ipynb)
+
 Google ads a competitor runs, from the Ads Transparency Center, with first and last shown dates.
 
 The Actor runs on **your** Apify account (API token or OAuth). Usage is billed to you on Apify's free or paid tier.

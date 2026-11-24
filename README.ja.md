@@ -1,5 +1,8 @@
 # Google Ads Transparency Scraper — 使用例
 
+[![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GeminiGeorge22/publicrecords-google-ads-transparency-scraper-examples/blob/main/notebooks/quickstart.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GeminiGeorge22/publicrecords-google-ads-transparency-scraper-examples/HEAD?labpath=notebooks%2Fquickstart.ipynb)
+
 広告の透明性センターから、競合が配信するGoogle広告と初回・最終表示日を取得。
 
 このActorは**あなた自身の**Apifyアカウント（APIトークンまたはOAuth）で実行します。利用料はApifyの無料または有料プランであなたに課金されます。

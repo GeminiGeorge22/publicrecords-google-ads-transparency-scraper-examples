@@ -1,5 +1,8 @@
 # Google Ads Transparency Scraper — exemplos
 
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GeminiGeorge22/publicrecords-google-ads-transparency-scraper-examples/blob/main/notebooks/quickstart.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GeminiGeorge22/publicrecords-google-ads-transparency-scraper-examples/HEAD?labpath=notebooks%2Fquickstart.ipynb)
+
 Anúncios Google de um concorrente, a partir do Centro de transparência de anúncios, com datas da primeira e da última exibição.
 
 O Actor corre na **sua** conta Apify (token de API ou OAuth). O uso é cobrado a si, no plano gratuito ou pago da Apify.
